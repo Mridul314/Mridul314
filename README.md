@@ -31,14 +31,14 @@ Git, GitHub, Postman, VS Code
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/mridul-thakur-a28b12232/)
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+* 💼 LinkedIn:[https://www.linkedin.com/in/mridul-thakur-a28b12232/]
+* 📧 Email: [mridul.t99@gmail.com]
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy understanding deeply and solving the problems  🚀
+I learning and exploring new ideas and converting into reality , also enjoy deep understanding of things so that I can apply it real life  🚀
 
 ---
 
