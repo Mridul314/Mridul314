@@ -31,8 +31,8 @@ Git, GitHub, Postman, VS Code
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn:[https://www.linkedin.com/in/mridul-thakur-a28b12232/]
-* 📧 Email: [mridul.t99@gmail.com]
+* 💼 LinkedIn:https://www.linkedin.com/in/mridul-thakur-a28b12232/
+* 📧 Email: mridul.t99@gmail.com
 
 ---
 
