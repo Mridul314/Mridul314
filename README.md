@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Mridul Thakur
 
-<!--
-**Mridul314/Mridul314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer | MERN Stack | Problem Solver**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 💡 Passionate about building scalable web applications
+* 🔍 Love solving real-world problems through code
+* 🌱 Currently improving skills in **System Design & DSA**
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+HTML, CSS, JavaScript, React, Tailwind CSS
+
+**Backend:**
+Node.js, Express.js
+
+**Database:**
+MongoDB, MySQL
+
+**Tools & Others:**
+Git, GitHub, Postman, VS Code
+
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/mridul-thakur-a28b12232/)
+* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy understanding deeply and solving the problems  🚀
+
+---
+
+⭐ *Feel free to explore my repositories and connect!*
